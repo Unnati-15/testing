@@ -1,0 +1,2 @@
+learning git
+attending git workshop
